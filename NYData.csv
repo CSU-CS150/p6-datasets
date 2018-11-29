@@ -1,12 +1,6 @@
 County,Category,Taxonomic Group,Taxonomic Subgroup,Scientific Name,Common Name,Year Last Documented,NY Listing Status,Federal Listing Status,State Conservation Rank,Global Conservation Rank,Distribution Status
 Albany,Animal,Amphibians,Salamanders,Ambystoma tigrinum,Tiger Salamander,not available,Endangered,not listed,S1S2,G5,Possible but not Confirmed
-Albany,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,2012,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
-Albany,Animal,Birds,"Gulls, Terns, Plovers, Shorebirds",Bartramia longicauda,Upland Sandpiper,1983,Threatened,not listed,S3B,G5,Recently Confirmed
-Albany,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Circus cyaneus,Northern Harrier,2002,Threatened,not listed,"S3B,S3N",G5,Recently Confirmed
-Albany,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Falco peregrinus,Peregrine Falcon,2009,Endangered,not listed,S3B,G4,Recently Confirmed
-Albany,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Haliaeetus leucocephalus,Bald Eagle,2016,Threatened,not listed,"S2S3B,S2N",G5,Recently Confirmed
-Albany,Animal,Birds,"Herons, Bitterns, Egrets, Pelicans",Ixobrychus exilis,Least Bittern,2013,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
-Albany,Animal,Birds,"Rails, Coots and Cranes",Rallus elegans,King Rail,1984,Threatened,not listed,S1B,G4,Recently Confirmed
+Albany,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,2012,Threatened,not listed,S3B,G5,Recently Confirmed
 Albany,Animal,Birds,Sparrows and Towhees,Ammodramus henslowii,Henslow's Sparrow,1992,Threatened,not listed,S3B,G4,Recently Confirmed
 Albany,Animal,Birds,Wrens,Cistothorus platensis,Sedge Wren,1991,Threatened,not listed,S3B,G5,Recently Confirmed
 Albany,Animal,Butterflies and Moths,Butterflies and Skippers,Callophrys irus,Frosted Elfin,2017,Threatened,not listed,S1S2,G3,Recently Confirmed
@@ -22,12 +16,12 @@ Albany,Animal,Reptiles,Turtles,Glyptemys muhlenbergii,Bog Turtle,1960,Endangered
 Albany,Plant,Conifers,Conifers,Pinus echinata,Shortleaf Pine,not available,Endangered,not listed,S1,G5,Possible but not Confirmed
 Albany,Plant,Ferns and Fern Allies,Ferns,Botrychium oneidense,Blunt-lobe Grape Fern,1929,Threatened,not listed,S2S3,G4,Recently Confirmed
 Albany,Plant,Ferns and Fern Allies,Ferns,Pellaea glabella ssp. glabella,Smooth Cliff Brake,2012,Threatened,not listed,S2,G5T5,Recently Confirmed
-Albany,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Bidens bidentoides,Delmarva Beggar-ticks,2001,Rare,not listed,S3,G3G4,Recently Confirmed
-Albany,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Lactuca hirsuta,Downy Lettuce,not available,Endangered,not listed,S1,G5?,Possible but not Confirmed
-Albany,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Liatris scariosa var. novae-angliae,Northern Blazing Star,not available,Threatened,not listed,S2,G5?T3,Historically Confirmed
-Albany,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Petasites frigidus var. palmatus,Sweet Coltsfoot,2001,Endangered,not listed,S1,G5T5,Recently Confirmed
-Albany,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Solidago ohioensis,Ohio Goldenrod,not available,Threatened,not listed,S2,G4,Possible but not Confirmed
-Albany,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Solidago ptarmicoides,Upland Goldenrod,not available,Rare,not listed,S3,G5,Historically Confirmed
+Albany,Plant,Flowering Plants,Goldenrods and Daisies,Bidens bidentoides,Delmarva Beggar-ticks,2001,Rare,not listed,S3,G3G4,Recently Confirmed
+Albany,Plant,Flowering Plants,Goldenrods and Daisies,Lactuca hirsuta,Downy Lettuce,not available,Endangered,not listed,S1,G5?,Possible but not Confirmed
+Albany,Plant,Flowering Plants,Goldenrods and Daisies,Liatris scariosa var. novae-angliae,Northern Blazing Star,not available,Threatened,not listed,S2,G5?T3,Historically Confirmed
+Albany,Plant,Flowering Plants,Goldenrods and Daisies,Petasites frigidus var. palmatus,Sweet Coltsfoot,2001,Endangered,not listed,S1,G5T5,Recently Confirmed
+Albany,Plant,Flowering Plants,Goldenrods and Daisies,Solidago ohioensis,Ohio Goldenrod,not available,Threatened,not listed,S2,G4,Possible but not Confirmed
+Albany,Plant,Flowering Plants,Goldenrods and Daisies,Solidago ptarmicoides,Upland Goldenrod,not available,Rare,not listed,S3,G5,Historically Confirmed
 Albany,Plant,Flowering Plants,Grasses,Bouteloua curtipendula var. curtipendula,Side-oats Grama,1996,Endangered,not listed,S2,G5T5,Recently Confirmed
 Albany,Plant,Flowering Plants,Grasses,Calamagrostis stricta ssp. inexpansa,New England Northern Reed Grass,not available,Threatened,not listed,S2,G5T5,Historically Confirmed
 Albany,Plant,Flowering Plants,Grasses,Cenchrus tribuloides,Dune Sandspur,1890,Threatened,not listed,S2,G5,Historically Confirmed
@@ -126,8 +120,8 @@ Allegany,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,2015,Threaten
 Allegany,Animal,Birds,"Gulls, Terns, Plovers, Shorebirds",Bartramia longicauda,Upland Sandpiper,2002,Threatened,not listed,S3B,G5,Recently Confirmed
 Allegany,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Circus cyaneus,Northern Harrier,2007,Threatened,not listed,"S3B,S3N",G5,Recently Confirmed
 Allegany,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Falco peregrinus,Peregrine Falcon,not available,Endangered,not listed,S3B,G4,Possible but not Confirmed
-Allegany,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Haliaeetus leucocephalus,Bald Eagle,2016,Threatened,not listed,"S2S3B,S2N",G5,Recently Confirmed
-Allegany,Animal,Birds,"Herons, Bitterns, Egrets, Pelicans",Ixobrychus exilis,Least Bittern,2015,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
+Allegany,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Haliaeetus leucocephalus,Bald Eagle,2016,Threatened,not listed,S2S3B,G5,Recently Confirmed
+Allegany,Animal,Birds,"Herons, Bitterns, Egrets, Pelicans",Ixobrychus exilis,Least Bittern,2015,Threatened,not listed,S3B,G5,Recently Confirmed
 Allegany,Animal,Birds,Owls,Asio flammeus,Short-eared Owl,1981,Endangered,not listed,S2,G5,Recently Confirmed
 Allegany,Animal,Birds,Sparrows and Towhees,Ammodramus henslowii,Henslow's Sparrow,2003,Threatened,not listed,S3B,G4,Recently Confirmed
 Allegany,Animal,Fish,Darters and Sunfishes,Etheostoma camurum,Bluebreast Darter,2015,Endangered,not listed,S1,G4,Recently Confirmed
@@ -160,7 +154,6 @@ Atlantic Ocean and Long Island Sound,Animal,Reptiles,Turtles,Dermochelys coriace
 Atlantic Ocean and Long Island Sound,Animal,Reptiles,Turtles,Eretmochelys imbricata,Hawksbill Sea Turtle,not available,Endangered,Endangered,SNA,G3,Historically Confirmed
 Atlantic Ocean and Long Island Sound,Animal,Reptiles,Turtles,Lepidochelys kempii,Kemp's or Atlantic Ridley,not available,Endangered,Endangered,S1N,G1,Recently Confirmed
 Bronx,Animal,Beetles,Carrion Beetles,Nicrophorus americanus,American Burying Beetle,not available,Endangered,Endangered,SH,G2G3,Historically Confirmed
-Bronx,Animal,Birds,"Gulls, Terns, Plovers, Shorebirds",Charadrius melodus,Piping Plover,2006,Endangered,Endangered/Threatened,S3B,G3,Recently Confirmed
 Bronx,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Circus cyaneus,Northern Harrier,not available,Threatened,not listed,"S3B,S3N",G5,Historically Confirmed
 Bronx,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Falco peregrinus,Peregrine Falcon,2008,Endangered,not listed,S3B,G4,Recently Confirmed
 Bronx,Animal,Fish,Sturgeons and Paddlefish,Acipenser brevirostrum,Shortnose Sturgeon,2013,Endangered,Endangered,S1,G3,Recently Confirmed
@@ -169,14 +162,14 @@ Bronx,Animal,Mammals,Bats,Myotis septentrionalis,Northern Long-eared Bat,not ava
 Bronx,Plant,Ferns and Fern Allies,Ferns,Botrychium oneidense,Blunt-lobe Grape Fern,not available,Threatened,not listed,S2S3,G4,Recently Confirmed
 Bronx,Plant,Ferns and Fern Allies,Ferns,Myriopteris lanosa,Woolly Lip Fern,not available,Endangered,not listed,SH,G5,Extirpated
 Bronx,Plant,Ferns and Fern Allies,Quillworts,Isoetes septentrionalis,Northern Quillwort,not available,Endangered,not listed,S1,GNR,Historically Confirmed
-Bronx,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Eupatorium subvenosum,Trinerved White Boneset,not available,Threatened,not listed,S2S3,G5T4,Historically Confirmed
-Bronx,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Lactuca floridana,False Lettuce,1994,Endangered,not listed,S1,G5,Recently Confirmed
-Bronx,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Sericocarpus linifolius,Flax-leaf Whitetop,1897,Threatened,not listed,S2,G5,Extirpated
-Bronx,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Solidago latissimifolia,Coastal Goldenrod,not available,Endangered,not listed,S1,G5,Possible but not Confirmed
-Bronx,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Solidago mexicana,Mexican Seaside Goldenrod,1946,Endangered,not listed,S1,G5T5?,Historically Confirmed
-Bronx,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum lanceolatum var. interior,Small-headed Aster,not available,Endangered,not listed,SH,G5T5,Historically Confirmed
-Bronx,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum subulatum var. subulatum,Annual Saltmarsh Aster,1946,Threatened,not listed,S2S3,G5,Historically Confirmed
-Bronx,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum tenuifolium var. tenuifolium,Perennial Saltmarsh Aster,not available,Rare,not listed,S3,G5,Historically Confirmed
+Bronx,Plant,Flowering Plants,Goldenrods and Daisies,Eupatorium subvenosum,Trinerved White Boneset,not available,Threatened,not listed,S2S3,G5T4,Historically Confirmed
+Bronx,Plant,Flowering Plants,Goldenrods and Daisies,Lactuca floridana,False Lettuce,1994,Endangered,not listed,S1,G5,Recently Confirmed
+Bronx,Plant,Flowering Plants,Goldenrods and Daisies,Sericocarpus linifolius,Flax-leaf Whitetop,1897,Threatened,not listed,S2,G5,Extirpated
+Bronx,Plant,Flowering Plants,Goldenrods and Daisies,Solidago latissimifolia,Coastal Goldenrod,not available,Endangered,not listed,S1,G5,Possible but not Confirmed
+Bronx,Plant,Flowering Plants,Goldenrods and Daisies,Solidago mexicana,Mexican Seaside Goldenrod,1946,Endangered,not listed,S1,G5T5?,Historically Confirmed
+Bronx,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum lanceolatum var. interior,Small-headed Aster,not available,Endangered,not listed,SH,G5T5,Historically Confirmed
+Bronx,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum subulatum var. subulatum,Annual Saltmarsh Aster,1946,Threatened,not listed,S2S3,G5,Historically Confirmed
+Bronx,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum tenuifolium var. tenuifolium,Perennial Saltmarsh Aster,not available,Rare,not listed,S3,G5,Historically Confirmed
 Bronx,Plant,Flowering Plants,Grasses,Cenchrus tribuloides,Dune Sandspur,not available,Threatened,not listed,S2,G5,Historically Confirmed
 Bronx,Plant,Flowering Plants,Grasses,Coleataenia stipitata,Tall Flat Panic Grass,1906,Endangered,not listed,SH,G5T4T5,Historically Confirmed
 Bronx,Plant,Flowering Plants,Grasses,Dichanthelium scoparium,Velvet Panic Grass,1953,Endangered,not listed,S1,G5,Historically Confirmed
@@ -298,20 +291,14 @@ Bronx,Plant,Flowering Plants,Sedges,Eleocharis engelmannii,Engelmann's Spike Rus
 Bronx,Plant,Flowering Plants,Sedges,Eleocharis tenuis var. pseudoptera,Slender Spike Rush,1997,Endangered,not listed,S1,G5T5?,Recently Confirmed
 Bronx,Plant,Flowering Plants,Sedges,Eleocharis uniglumis,Salt-marsh Spike Rush,1947,Threatened,not listed,S2,G5,Historically Confirmed
 Bronx,Plant,Flowering Plants,Sedges,Scleria triglomerata,Whip Nut Sedge,not available,Endangered,not listed,S1,G5,Historically Confirmed
-Broome,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,2000-2005,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
-Broome,Animal,Birds,"Gulls, Terns, Plovers, Shorebirds",Bartramia longicauda,Upland Sandpiper,not available,Threatened,not listed,S3B,G5,Historically Confirmed
-Broome,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Circus cyaneus,Northern Harrier,2000-2005,Threatened,not listed,"S3B,S3N",G5,Recently Confirmed
-Broome,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Falco peregrinus,Peregrine Falcon,2009,Endangered,not listed,S3B,G4,Recently Confirmed
-Broome,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Haliaeetus leucocephalus,Bald Eagle,2016,Threatened,not listed,"S2S3B,S2N",G5,Recently Confirmed
-Broome,Animal,Birds,"Herons, Bitterns, Egrets, Pelicans",Ixobrychus exilis,Least Bittern,2011,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
+Broome,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,2000-2005,Threatened,not listed,S3B,G5,Recently Confirmed
 Broome,Animal,Birds,Sparrows and Towhees,Ammodramus henslowii,Henslow's Sparrow,1982,Threatened,not listed,S3B,G4,Recently Confirmed
-Broome,Animal,Fish,"Minnows, Shiners, Suckers",Erimyzon sucetta,Lake Chubsucker,not available,Threatened,not listed,SH,G5,Historically Confirmed
 Broome,Animal,Mammals,Bats,Myotis septentrionalis,Northern Long-eared Bat,not available,Threatened,Threatened,S1,G1G2,Historically Confirmed
 Broome,Animal,Mussels and Clams,Freshwater Mussels,Alasmidonta varicosa,Brook Floater,2010,Threatened,not listed,S1,G3,Recently Confirmed
 Broome,Animal,Mussels and Clams,Freshwater Mussels,Lasmigona subviridis,Green Floater,2015,Threatened,not listed,S1S2,G3,Recently Confirmed
 Broome,Animal,Reptiles,Snakes,Crotalus horridus,Timber Rattlesnake,2006,Threatened,not listed,S3,G4,Recently Confirmed
 Broome,Plant,Ferns and Fern Allies,Ferns,Botrychium oneidense,Blunt-lobe Grape Fern,2010,Threatened,not listed,S2S3,G4,Recently Confirmed
-Broome,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Senecio suaveolens,Sweet-scented Indian Plantain,not available,Endangered,not listed,S1,G4,Recently Confirmed
+Broome,Plant,Flowering Plants,Goldenrods and Daisies,Senecio suaveolens,Sweet-scented Indian Plantain,not available,Endangered,not listed,S1,G4,Recently Confirmed
 Broome,Plant,Flowering Plants,Grasses,Calamagrostis porteri ssp. porteri,Porter's Reed Grass,1920,Endangered,not listed,S1S2,G4T4,Historically Confirmed
 Broome,Plant,Flowering Plants,Orchids,Aplectrum hyemale,Puttyroot,not available,Endangered,not listed,S1,G5,Possible but not Confirmed
 Broome,Plant,Flowering Plants,Orchids,Platanthera hookeri,Hooker's Orchid,not available,Endangered,not listed,S1,G4,Historically Confirmed
@@ -335,10 +322,6 @@ Broome,Plant,Flowering Plants,Other Flowering Plants,Valerianella chenopodiifoli
 Broome,Plant,Flowering Plants,Other Flowering Plants,Veronicastrum virginicum,Culver's Root,not available,Threatened,not listed,S2,G4,Historically Confirmed
 Broome,Plant,Flowering Plants,Other Flowering Plants,Viola pedata var. pedata,Bird's-foot Violet,not available,Rare,not listed,S3,G5TNR,Possible but not Confirmed
 Cattaraugus,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,not available,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
-Cattaraugus,Animal,Birds,"Gulls, Terns, Plovers, Shorebirds",Bartramia longicauda,Upland Sandpiper,2000,Threatened,not listed,S3B,G5,Recently Confirmed
-Cattaraugus,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Circus cyaneus,Northern Harrier,2003,Threatened,not listed,"S3B,S3N",G5,Recently Confirmed
-Cattaraugus,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Haliaeetus leucocephalus,Bald Eagle,2016,Threatened,not listed,"S2S3B,S2N",G5,Recently Confirmed
-Cattaraugus,Animal,Birds,"Herons, Bitterns, Egrets, Pelicans",Ixobrychus exilis,Least Bittern,not available,Threatened,not listed,"S3B,S1N",G5,Historically Confirmed
 Cattaraugus,Animal,Birds,Sparrows and Towhees,Ammodramus henslowii,Henslow's Sparrow,2000,Threatened,not listed,S3B,G4,Recently Confirmed
 Cattaraugus,Animal,Butterflies and Moths,Butterflies and Skippers,Speyeria idalia,Regal Fritillary,1930,Endangered,not listed,SH,G3,Historically Confirmed
 Cattaraugus,Animal,Fish,Darters and Sunfishes,Ammocrypta pellucida,Eastern Sand Darter,1893,Threatened,not listed,S2S3,G4,Historically Confirmed
@@ -356,15 +339,15 @@ Cattaraugus,Plant,Ferns and Fern Allies,Ferns,Crepidomanes intricatum,Appalachia
 Cattaraugus,Plant,Ferns and Fern Allies,Ferns,Cystopteris protrusa,Lowland Fragile Fern,1927,Endangered,not listed,S1,G5,Historically Confirmed
 Cattaraugus,Plant,Ferns and Fern Allies,Ferns,Polystichum lonchitis,Holly Fern,1943,Endangered,not listed,SH,G5,Historically Confirmed
 Cattaraugus,Plant,Ferns and Fern Allies,Ferns,Vittaria appalachiana,Appalachian Shoestring Fern,1983,Endangered,not listed,S1,G4,Recently Confirmed
-Cattaraugus,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Arnoglossum atriplicifolium,Pale Indian-plantain,not available,Endangered,not listed,SH,G4G5,Historically Confirmed
-Cattaraugus,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Lactuca hirsuta,Downy Lettuce,1926,Endangered,not listed,S1,G5?,Historically Confirmed
-Cattaraugus,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Nabalus crepidineus,Nodding Rattlesnake Root,1958,Endangered,not listed,SH,G4,Historically Confirmed
-Cattaraugus,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Petasites frigidus var. palmatus,Sweet Coltsfoot,1873,Endangered,not listed,S1,G5T5,Extirpated
-Cattaraugus,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Senecio suaveolens,Sweet-scented Indian Plantain,1987,Endangered,not listed,S1,G4,Recently Confirmed
-Cattaraugus,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Smallanthus uvedalia,Bear's Foot,1931,Endangered,not listed,SH,G4G5,Historically Confirmed
-Cattaraugus,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum lanceolatum var. interior,Small-headed Aster,not available,Endangered,not listed,SH,G5T5,Historically Confirmed
-Cattaraugus,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum oolentangiense,Sky-blue Aster,1924,Endangered,not listed,S1,G5,Historically Confirmed
-Cattaraugus,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Vernonia gigantea,Tall Ironweed,1927,Endangered,not listed,S1,G5,Historically Confirmed
+Cattaraugus,Plant,Flowering Plants,Goldenrods and Daisies,Arnoglossum atriplicifolium,Pale Indian-plantain,not available,Endangered,not listed,SH,G4G5,Historically Confirmed
+Cattaraugus,Plant,Flowering Plants,Goldenrods and Daisies,Lactuca hirsuta,Downy Lettuce,1926,Endangered,not listed,S1,G5?,Historically Confirmed
+Cattaraugus,Plant,Flowering Plants,Goldenrods and Daisies,Nabalus crepidineus,Nodding Rattlesnake Root,1958,Endangered,not listed,SH,G4,Historically Confirmed
+Cattaraugus,Plant,Flowering Plants,Goldenrods and Daisies,Petasites frigidus var. palmatus,Sweet Coltsfoot,1873,Endangered,not listed,S1,G5T5,Extirpated
+Cattaraugus,Plant,Flowering Plants,Goldenrods and Daisies,Senecio suaveolens,Sweet-scented Indian Plantain,1987,Endangered,not listed,S1,G4,Recently Confirmed
+Cattaraugus,Plant,Flowering Plants,Goldenrods and Daisies,Smallanthus uvedalia,Bear's Foot,1931,Endangered,not listed,SH,G4G5,Historically Confirmed
+Cattaraugus,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum lanceolatum var. interior,Small-headed Aster,not available,Endangered,not listed,SH,G5T5,Historically Confirmed
+Cattaraugus,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum oolentangiense,Sky-blue Aster,1924,Endangered,not listed,S1,G5,Historically Confirmed
+Cattaraugus,Plant,Flowering Plants,Goldenrods and Daisies,Vernonia gigantea,Tall Ironweed,1927,Endangered,not listed,S1,G5,Historically Confirmed
 Cattaraugus,Plant,Flowering Plants,Grasses,Poa sylvestris,Forest Blue Grass,1921,Endangered,not listed,S1,G5,Historically Confirmed
 Cattaraugus,Plant,Flowering Plants,Grasses,Sphenopholis obtusata,Prairie Wedgegrass,1934,Endangered,not listed,S1,G5,Possible but not Confirmed
 Cattaraugus,Plant,Flowering Plants,Orchids,Arethusa bulbosa,Dragon's Mouth Orchid,not available,Threatened,not listed,S2,G5,Possible but not Confirmed
@@ -417,11 +400,6 @@ Cattaraugus,Plant,Flowering Plants,Sedges,Carex schweinitzii,Schweinitz's Sedge,
 Cattaraugus,Plant,Flowering Plants,Sedges,Carex typhina,Cat-tail Sedge,1926,Endangered,not listed,S2,G5,Historically Confirmed
 Cattaraugus,Plant,Flowering Plants,Sedges,Scirpus georgianus,Georgia Bulrush,1985,Endangered,not listed,S1S2,G5,Recently Confirmed
 Cayuga,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,2013,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
-Cayuga,Animal,Birds,"Gulls, Terns, Plovers, Shorebirds",Chlidonias niger,Black Tern,2007,Endangered,not listed,S2B,G4,Recently Confirmed
-Cayuga,Animal,Birds,"Gulls, Terns, Plovers, Shorebirds",Sterna hirundo,Common Tern,not available,Threatened,not listed,S3B,G5,Historically Confirmed
-Cayuga,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Circus cyaneus,Northern Harrier,2004,Threatened,not listed,"S3B,S3N",G5,Recently Confirmed
-Cayuga,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Haliaeetus leucocephalus,Bald Eagle,2016,Threatened,not listed,"S2S3B,S2N",G5,Recently Confirmed
-Cayuga,Animal,Birds,"Herons, Bitterns, Egrets, Pelicans",Ixobrychus exilis,Least Bittern,2013,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
 Cayuga,Animal,Birds,Owls,Asio flammeus,Short-eared Owl,2013,Endangered,not listed,S2,G5,Recently Confirmed
 Cayuga,Animal,Birds,"Rails, Coots and Cranes",Rallus elegans,King Rail,2011,Threatened,not listed,S1B,G4,Recently Confirmed
 Cayuga,Animal,Birds,Sparrows and Towhees,Ammodramus henslowii,Henslow's Sparrow,2000-2005,Threatened,not listed,S3B,G4,Recently Confirmed
@@ -434,11 +412,11 @@ Cayuga,Animal,Mammals,Bats,Myotis sodalis,Indiana Bat,2008,Endangered,Endangered
 Cayuga,Animal,Mussels and Clams,Freshwater Mussels,Lasmigona subviridis,Green Floater,2014,Threatened,not listed,S1S2,G3,Recently Confirmed
 Cayuga,Animal,Reptiles,Turtles,Emydoidea blandingii,Blanding's Turtle,1990-1999,Threatened,not listed,S2S3,G4,Recently Confirmed
 Cayuga,Plant,Ferns and Fern Allies,Ferns,Botrychium oneidense,Blunt-lobe Grape Fern,not available,Threatened,not listed,S2S3,G4,Historically Confirmed
-Cayuga,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Bidens laevis,Smooth Beggar-ticks,not available,Threatened,not listed,S2,G5,Historically Confirmed
-Cayuga,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Smallanthus uvedalia,Bear's Foot,1991,Endangered,not listed,SH,G4G5,Extirpated
-Cayuga,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum boreale,Northern Bog Aster,1992,Threatened,not listed,S2,G5,Recently Confirmed
-Cayuga,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum lanceolatum var. interior,Small-headed Aster,not available,Endangered,not listed,SH,G5T5,Historically Confirmed
-Cayuga,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum subulatum var. subulatum,Annual Saltmarsh Aster,not available,Threatened,not listed,S2S3,G5,Recently Confirmed
+Cayuga,Plant,Flowering Plants,Goldenrods and Daisies,Bidens laevis,Smooth Beggar-ticks,not available,Threatened,not listed,S2,G5,Historically Confirmed
+Cayuga,Plant,Flowering Plants,Goldenrods and Daisies,Smallanthus uvedalia,Bear's Foot,1991,Endangered,not listed,SH,G4G5,Extirpated
+Cayuga,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum boreale,Northern Bog Aster,1992,Threatened,not listed,S2,G5,Recently Confirmed
+Cayuga,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum lanceolatum var. interior,Small-headed Aster,not available,Endangered,not listed,SH,G5T5,Historically Confirmed
+Cayuga,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum subulatum var. subulatum,Annual Saltmarsh Aster,not available,Threatened,not listed,S2S3,G5,Recently Confirmed
 Cayuga,Plant,Flowering Plants,Grasses,Diplachne fusca ssp. fascicularis,Salt-meadow Grass,1993,Endangered,not listed,S1S2,G5T5,Recently Confirmed
 Cayuga,Plant,Flowering Plants,Grasses,Phragmites americanus,American Phragmites,not available,Rare,not listed,S3,G5T4,Recently Confirmed
 Cayuga,Plant,Flowering Plants,Grasses,Poa paludigena,Slender Marsh Blue Grass,1917,Endangered,not listed,S1,G3,Historically Confirmed
@@ -541,9 +519,9 @@ Chautauqua,Plant,Ferns and Fern Allies,Ferns,Botrychium oneidense,Blunt-lobe Gra
 Chautauqua,Plant,Ferns and Fern Allies,Ferns,Crepidomanes intricatum,Appalachian Bristle Fern,1983,Endangered,not listed,S1,G4G5,Recently Confirmed
 Chautauqua,Plant,Ferns and Fern Allies,Ferns,Cystopteris protrusa,Lowland Fragile Fern,1927,Endangered,not listed,S1,G5,Historically Confirmed
 Chautauqua,Plant,Ferns and Fern Allies,Ferns,Vittaria appalachiana,Appalachian Shoestring Fern,1986,Endangered,not listed,S1,G4,Recently Confirmed
-Chautauqua,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Arnoglossum atriplicifolium,Pale Indian-plantain,not available,Endangered,not listed,SH,G4G5,Possible but not Confirmed
-Chautauqua,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Smallanthus uvedalia,Bear's Foot,1931,Endangered,not listed,SH,G4G5,Historically Confirmed
-Chautauqua,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Vernonia gigantea,Tall Ironweed,1992,Endangered,not listed,S1,G5,Recently Confirmed
+Chautauqua,Plant,Flowering Plants,Goldenrods and Daisies,Arnoglossum atriplicifolium,Pale Indian-plantain,not available,Endangered,not listed,SH,G4G5,Possible but not Confirmed
+Chautauqua,Plant,Flowering Plants,Goldenrods and Daisies,Smallanthus uvedalia,Bear's Foot,1931,Endangered,not listed,SH,G4G5,Historically Confirmed
+Chautauqua,Plant,Flowering Plants,Goldenrods and Daisies,Vernonia gigantea,Tall Ironweed,1992,Endangered,not listed,S1,G5,Recently Confirmed
 Chautauqua,Plant,Flowering Plants,Grasses,Sphenopholis obtusata,Prairie Wedgegrass,1934,Endangered,not listed,S1,G5,Possible but not Confirmed
 Chautauqua,Plant,Flowering Plants,Orchids,Aplectrum hyemale,Puttyroot,not available,Endangered,not listed,S1,G5,Possible but not Confirmed
 Chautauqua,Plant,Flowering Plants,Orchids,Arethusa bulbosa,Dragon's Mouth Orchid,not available,Threatened,not listed,S2,G5,Possible but not Confirmed
@@ -695,16 +673,9 @@ Chenango,Plant,Flowering Plants,Other Flowering Plants,Ulmus thomasii,Cork Elm,n
 Chenango,Plant,Flowering Plants,Other Flowering Plants,Valerianella chenopodiifolia,Goosefoot Corn Salad,not available,Endangered,not listed,S1,G4,Historically Confirmed
 Chenango,Plant,Flowering Plants,Other Flowering Plants,Valerianella umbilicata,Navel Corn Salad,1939,Endangered,not listed,SH,G4G5,Historically Confirmed
 Chenango,Plant,Flowering Plants,Sedges,Carex haydenii,Cloud Sedge,2013,Endangered,not listed,S1S2,G5,Recently Confirmed
-Clinton,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,2014,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
-Clinton,Animal,Birds,"Grouse, Pheasants, Turkeys",Falcipennis canadensis,Spruce Grouse,not available,Endangered,not listed,S2,G5,Historically Confirmed
-Clinton,Animal,Birds,"Gulls, Terns, Plovers, Shorebirds",Bartramia longicauda,Upland Sandpiper,2002,Threatened,not listed,S3B,G5,Recently Confirmed
-Clinton,Animal,Birds,"Gulls, Terns, Plovers, Shorebirds",Chlidonias niger,Black Tern,2004,Endangered,not listed,S2B,G4,Recently Confirmed
-Clinton,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Circus cyaneus,Northern Harrier,2000,Threatened,not listed,"S3B,S3N",G5,Recently Confirmed
-Clinton,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Falco peregrinus,Peregrine Falcon,2016,Endangered,not listed,S3B,G4,Recently Confirmed
-Clinton,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Haliaeetus leucocephalus,Bald Eagle,2016,Threatened,not listed,"S2S3B,S2N",G5,Recently Confirmed
-Clinton,Animal,Birds,"Herons, Bitterns, Egrets, Pelicans",Ixobrychus exilis,Least Bittern,2013,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
+Clinton,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,2014,Threatened,not listed,S3BS1N,G5,Recently Confirmed
 Clinton,Animal,Birds,Owls,Asio flammeus,Short-eared Owl,2003,Endangered,not listed,S2,G5,Recently Confirmed
-Clinton,Animal,Birds,"Rails, Coots and Cranes",Rallus elegans,King Rail,2014,Threatened,not listed,S1B,G4,Recently Confirmed
+Clinton,Animal,Birds,Rails,Rallus elegans,King Rail,2014,Threatened,not listed,S1B,G4,Recently Confirmed
 Clinton,Animal,Birds,Shrikes,Lanius ludovicianus,Loggerhead Shrike,1981,Endangered,not listed,S1B,G4,Recently Confirmed
 Clinton,Animal,Birds,Wrens,Cistothorus platensis,Sedge Wren,2002,Threatened,not listed,S3B,G5,Recently Confirmed
 Clinton,Animal,Butterflies and Moths,Moths,Lithophane lepida lepida,Pine Pinion Moth,1991,Endangered,not listed,S1,G4T1T3,Recently Confirmed
@@ -716,12 +687,12 @@ Clinton,Plant,Conifers,Conifers,Pinus banksiana,Jack Pine,not available,Rare,not
 Clinton,Plant,Ferns and Fern Allies,Horsetails,Equisetum palustre,Marsh Horsetail,2016,Threatened,not listed,S2,G5,Recently Confirmed
 Clinton,Plant,Ferns and Fern Allies,Horsetails,Equisetum pratense,Meadow Horsetail,2004,Threatened,not listed,S2,G5,Recently Confirmed
 Clinton,Plant,Ferns and Fern Allies,Quillworts,Isoetes septentrionalis,Northern Quillwort,not available,Endangered,not listed,S1,GNR,Possible but not Confirmed
-Clinton,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Erigeron hyssopifolius,Daisy Fleabane,1910,Endangered,not listed,S1,G5,Extirpated
-Clinton,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Lactuca hirsuta,Downy Lettuce,2005,Endangered,not listed,S1,G5?,Recently Confirmed
-Clinton,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Petasites frigidus var. palmatus,Sweet Coltsfoot,1982,Endangered,not listed,S1,G5T5,Historically Confirmed
-Clinton,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum boreale,Northern Bog Aster,not available,Threatened,not listed,S2,G5,Historically Confirmed
-Clinton,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum ciliolatum,Lindley's Aster,2006,Endangered,not listed,S1,G5,Recently Confirmed
-Clinton,Plant,Flowering Plants,"Asters, Goldenrods and Daisies",Symphyotrichum ontarionis,Ontario Aster,not available,Rare,not listed,S3,G5,Recently Confirmed
+Clinton,Plant,Flowering Plants,Goldenrods and Daisies,Erigeron hyssopifolius,Daisy Fleabane,1910,Endangered,not listed,S1,G5,Extirpated
+Clinton,Plant,Flowering Plants,Goldenrods and Daisies,Lactuca hirsuta,Downy Lettuce,2005,Endangered,not listed,S1,G5?,Recently Confirmed
+Clinton,Plant,Flowering Plants,Goldenrods and Daisies,Petasites frigidus var. palmatus,Sweet Coltsfoot,1982,Endangered,not listed,S1,G5T5,Historically Confirmed
+Clinton,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum boreale,Northern Bog Aster,not available,Threatened,not listed,S2,G5,Historically Confirmed
+Clinton,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum ciliolatum,Lindley's Aster,2006,Endangered,not listed,S1,G5,Recently Confirmed
+Clinton,Plant,Flowering Plants,Goldenrods and Daisies,Symphyotrichum ontarionis,Ontario Aster,not available,Rare,not listed,S3,G5,Recently Confirmed
 Clinton,Plant,Flowering Plants,Grasses,Calamagrostis stricta ssp. inexpansa,New England Northern Reed Grass,1993,Threatened,not listed,S2,G5T5,Recently Confirmed
 Clinton,Plant,Flowering Plants,Grasses,Calamagrostis stricta ssp. stricta,Northern Reed Grass,1985,Endangered,not listed,S1,G5T5,Recently Confirmed
 Clinton,Plant,Flowering Plants,Grasses,Graphephorum melicoides,Melic Oats,1985,Endangered,not listed,S1,G4,Recently Confirmed
@@ -783,12 +754,7 @@ Clinton,Plant,Flowering Plants,Sedges,Carex typhina,Cat-tail Sedge,2016,Endanger
 Clinton,Plant,Flowering Plants,Sedges,Cyperus houghtonii,Houghton's Flat Sedge,not available,Rare,not listed,S3,G4?,Recently Confirmed
 Clinton,Plant,Flowering Plants,Sedges,Eleocharis ovata,Ovate Spike Rush,1993,Endangered,not listed,S1S2,G5,Recently Confirmed
 Clinton,Plant,Flowering Plants,Sedges,Schoenoplectus heterochaetus,Slender Bulrush,1992,Endangered,not listed,S2,G5,Recently Confirmed
-Columbia,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,2014,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
-Columbia,Animal,Birds,"Gulls, Terns, Plovers, Shorebirds",Bartramia longicauda,Upland Sandpiper,1983,Threatened,not listed,S3B,G5,Historically Confirmed
-Columbia,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Circus cyaneus,Northern Harrier,2017,Threatened,not listed,"S3B,S3N",G5,Recently Confirmed
-Columbia,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Falco peregrinus,Peregrine Falcon,2000-2005,Endangered,not listed,S3B,G4,Recently Confirmed
-Columbia,Animal,Birds,"Hawks, Falcons, Eagles, Vultures",Haliaeetus leucocephalus,Bald Eagle,2016,Threatened,not listed,"S2S3B,S2N",G5,Recently Confirmed
-Columbia,Animal,Birds,"Herons, Bitterns, Egrets, Pelicans",Ixobrychus exilis,Least Bittern,2012,Threatened,not listed,"S3B,S1N",G5,Recently Confirmed
+Columbia,Animal,Birds,Grebes,Podilymbus podiceps,Pied-billed Grebe,2014,Threatened,not listed,S3BS1N,G5,Recently Confirmed
 Columbia,Animal,Fish,Sturgeons and Paddlefish,Acipenser brevirostrum,Shortnose Sturgeon,2013,Endangered,Endangered,S1,G3,Recently Confirmed
 Columbia,Animal,Fish,Sturgeons and Paddlefish,Acipenser oxyrinchus,Atlantic Sturgeon,2013,Protected - no open season,Endangered,S1,G3,Recently Confirmed
 Columbia,Animal,Mammals,Bats,Myotis septentrionalis,Northern Long-eared Bat,2008,Threatened,Threatened,S1,G1G2,Recently Confirmed
